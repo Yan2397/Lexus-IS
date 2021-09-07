@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+.car{
+	width: 100%;
+	background-image: url(n1.jpeg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: -190px;
+    margin-top: -225px
+}
+
+.color{
+	padding-left: 100px;
+
+}
+
+
+.color>img{
+   margin: 0 3px;
+}
